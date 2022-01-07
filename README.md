@@ -13,8 +13,8 @@
 |[Sqrt](https://github.com/khan-mujeeb/Leet-Code/tree/main/sqrt)|Given a non-negative integer x, compute and return the square root of x.|[Link](https://leetcode.com/problems/sqrtx/)|
 |[Guess Number Higher or Lower](https://github.com/khan-mujeeb/Leet-Code/tree/main/Guess%20Number%20Higher%20or%20Lower)|I pick a number from 1 to n. You have to guess which number I picked.Every time you guess wrong, I will tell you whether the number I picked is higher or lower than your guess.|[Link](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/)|
 |[Counting Bits](https://github.com/khan-mujeeb/Leet-Code/tree/main/Counting%20bits)|Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i|[Link](https://leetcode.com/problems/counting-bits/)|
-|[]()||[Link]()|
-|[]()||[Link]()|
+|[First bad version](https://github.com/khan-mujeeb/Leet-Code/tree/main/First%20Bad%20Version)|You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.|[Link](https://leetcode.com/problems/first-bad-version/)|
+|[Search Insert Position](https://github.com/khan-mujeeb/Leet-Code/tree/main/Search%20Insert%20Postion)|Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.|[Link](https://leetcode.com/problems/search-insert-position/)|
 |[]()||[Link]()|
 |[]()||[Link]()|
 |[]()||[Link]()|
