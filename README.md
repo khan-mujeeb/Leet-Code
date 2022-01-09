@@ -15,8 +15,8 @@
 |[Counting Bits](https://github.com/khan-mujeeb/Leet-Code/tree/main/Counting%20bits)|Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i|[Link](https://leetcode.com/problems/counting-bits/)|
 |[First bad version](https://github.com/khan-mujeeb/Leet-Code/tree/main/First%20Bad%20Version)|You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.|[Link](https://leetcode.com/problems/first-bad-version/)|
 |[Search Insert Position](https://github.com/khan-mujeeb/Leet-Code/tree/main/Search%20Insert%20Postion)|Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.|[Link](https://leetcode.com/problems/search-insert-position/)|
-|[]()||[Link]()|
-|[]()||[Link]()|
+|[Move Zeros](https://github.com/khan-mujeeb/Leet-Code/tree/main/Move%20Zeros)|Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.|[Link](https://leetcode.com/problems/move-zeroes/)|
+|[Two Sum II - Input Array Is Sorted](https://github.com/khan-mujeeb/Leet-Code/tree/main/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length|[Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
 |[]()||[Link]()|
 |[]()||[Link]()|
 |[]()||[Link]()|
