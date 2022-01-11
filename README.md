@@ -17,6 +17,50 @@
 |[Search Insert Position](https://github.com/khan-mujeeb/Leet-Code/tree/main/Search%20Insert%20Postion)|Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.|[Link](https://leetcode.com/problems/search-insert-position/)|
 |[Move Zeros](https://github.com/khan-mujeeb/Leet-Code/tree/main/Move%20Zeros)|Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.|[Link](https://leetcode.com/problems/move-zeroes/)|
 |[Two Sum II - Input Array Is Sorted](https://github.com/khan-mujeeb/Leet-Code/tree/main/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted)|Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length|[Link](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|
+|[Middle of LinkedList](https://github.com/khan-mujeeb/Leet-Code/tree/main/Middle%20of%20Linked%20List)|Given the head of a singly linked list, return the middle node of the linked list.If there are two middle nodes, return the second middle node.|[Link](https://leetcode.com/problems/middle-of-the-linked-list/)|
+|[Remove Nth Node From Last](https://github.com/khan-mujeeb/Leet-Code/tree/main/Delete%20Nth%20Node%20from%20last)|Given the head of a linked list, remove the nth node from the end of the list and return its head.|[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
+|[]()||[Link]()|
 |[]()||[Link]()|
 |[]()||[Link]()|
 |[]()||[Link]()|
