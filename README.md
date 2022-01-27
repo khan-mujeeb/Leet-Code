@@ -21,7 +21,7 @@
 |[Remove Nth Node From Last](https://github.com/khan-mujeeb/Leet-Code/tree/main/Delete%20Nth%20Node%20from%20last)|Given the head of a linked list, remove the nth node from the end of the list and return its head.|[Link](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/)|
 |[Goal Parser Interpretation](https://github.com/khan-mujeeb/Leet-Code/tree/main/Goal%20Parser%20Interpretation)|You own a Goal Parser that can interpret a string command. The command consists of an alphabet of "G", "()" and/or "(al)" in some order. The Goal Parser will interpret "G" as the string "G", "()" as the string "o", and "(al)" as the string "al". The interpreted strings are then concatenated in the original order.|[Link](https://leetcode.com/problems/goal-parser-interpretation/)|
 |[Reverse a linkedlist](https://github.com/khan-mujeeb/Leet-Code/tree/main/Reverse%20a%20Linkedlist%20using%20recurion)|Given the head of a singly linked list, reverse the list, and return the reversed list.|[Link](https://leetcode.com/problems/reverse-linked-list/submissions/)|
-|[]()||[Link]()|
+|[Rotate Image](https://github.com/khan-mujeeb/Leet-Code/tree/main/Rotate%20Image)|You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise)|[Link](https://leetcode.com/problems/rotate-image/)|
 |[]()||[Link]()|
 |[]()||[Link]()|
 |[]()||[Link]()|
